@@ -147,7 +147,7 @@ Bước 4: Cấu hình Node-RED & Xử lý API Thời tiết:
 
 Bước 6: Cấu hình frontend kết nối tới flask api và iframe của grafana:
 <img width="1107" height="622" alt="image" src="https://github.com/user-attachments/assets/c1b21bd4-6036-4cb0-9106-3540fbad37aa" />
-<img width="1107" height="622" alt="image" src="https://github.com/user-attachments/assets/6f5ebbb0-72be-41de-b4f4-e3c00d9eade4" />
+
 - Kết quả web: <img width="1353" height="989" alt="image" src="https://github.com/user-attachments/assets/ed018522-edcd-4fb9-8b21-38ce6bd2cef0" />
  Bước 7: Kết nối tới bot tele và gửi cảnh báo vào nhóm:
 <img width="1111" height="814" alt="image" src="https://github.com/user-attachments/assets/d7b326ed-3175-4c76-93d9-00b92f7451fd" />
